@@ -1,0 +1,8 @@
+ul{
+	color: green;
+}
+
+li{
+	display: inline-block;
+	margin: 20px;
+}
